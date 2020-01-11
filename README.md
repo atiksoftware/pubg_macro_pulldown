@@ -8,10 +8,10 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/atiksoftware/pubg_macro_pulldown/develop?color=blueviolet)]()
 
 
-Playerunknown's Battlegrounds: Mouse Macro program for  Pubg Mobile, Pubg Lite or Pubg Steam.  
+Playerunknown's Battlegrounds: Mouse Macro program for Pubg Mobile, Pubg Lite or Pubg Steam.  
 
-I not share this as a Cheat. I just share my project with you.  
-Bunu bir hile olarak paylaşmıyorum. Sadece projemi sizinle paylaşıyorum.  
+```I not share this as a Cheat. I just share my project with you.```  
+```Bunu bir hile olarak paylaşmıyorum. Sadece projemi sizinle paylaşıyorum.```  
 
 [![PUBG MACRO EXAMPLE SCREENSHOT](https://raw.githubusercontent.com/atiksoftware/pubg_macro_pulldown/master/example_main.jpg)](https://www.youtube.com/watch?v=zsCWvtMBE8k)
 [Youtube Video](https://www.youtube.com/watch?v=zsCWvtMBE8k)
@@ -54,5 +54,5 @@ Recommended screen size 1920x1080
 
 ---
 
-#### If you like this document, you can give a star. Thank you
+#### If you like this, you can give a star. Thank you
 **Amiral Router!**
