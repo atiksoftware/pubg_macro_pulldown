@@ -52,6 +52,7 @@ I get icons from forum sites about pubg and i resized images
 
 Recommended screen size 1920x1080  
 
+[![Used](https://www.cutercounter.com/hits.php?id=hxdkppa&nd=6&style=1)]()  
 ---
 
 #### If you like this, you can give a star. Thank you
